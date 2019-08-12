@@ -1,2 +1,2 @@
 # kennyyu168.github.io
-Main page to display java projects
+Main page to display coding projects
