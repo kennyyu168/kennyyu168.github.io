@@ -4,10 +4,12 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 
-body {
+body, html {
     margin: 0;
     line-height: 1;
     font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 0;
 }
 
 ol, ul {
@@ -25,11 +27,15 @@ q:before, q:after {
 }
 
 .description {
-    background: url("41891796654_b91ed7acf4_o.jpg");
+    position: relative;
+    background: url("city_background.jpg") no-repeat center center;
     background-size: cover;
-    
-    height: 400px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
     text-align: center;
+    font-size: 24px;
     font-weight: 200;
     
 }
