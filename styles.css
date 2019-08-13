@@ -9,6 +9,7 @@ body, html {
     line-height: 1;
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    background-color: slategrey;
     padding: 0;
 }
 
@@ -57,6 +58,7 @@ table {
 .navbar {
     background-color: #333;
     overflow: hidden;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,0.5)
 }
 
 .navbar a {
@@ -66,6 +68,7 @@ table {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    
 }
 
 .navbar a:hover {
