@@ -1,2 +1,5 @@
 # kennyyu168.github.io
-Main page to display coding projects
+
+Main page about me, Kenny Yu!
+
+Written raw without using templates, only with my working knowledge of HTML and CSS!
