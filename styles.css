@@ -96,6 +96,11 @@ table {
     text-decoration: none;
 }
 
+.projects img { 
+    width: 400px;
+    height: 400px;
+}
+
 .processing {
     display: inline;
 }
