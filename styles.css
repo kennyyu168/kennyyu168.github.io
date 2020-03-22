@@ -127,18 +127,7 @@ table {
     padding: 2px 16px;
 }
 
-.split {
-    height: 200px;
-    width: 50%;
-    position: fixed;
-}
-
-.left {
-    left: 0;
-    background-color: #333;
-}
-
-.right {
-    right: 0;
-    background-color: slategrey;
+#aboutmepic {
+    width: 50%
+    float: left;
 }
