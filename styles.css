@@ -47,6 +47,14 @@ p {
     color: white;
 }
 
+a {
+    padding-top: 5px;
+    font-size: 14px;
+    font-weight: 150;
+    color: white;
+    text-decoration: none;
+}
+
 ol, ul {
     list-style: none;
 }
@@ -107,12 +115,11 @@ q:before, q:after {
     border-radius: 50%;
 }
 
-.me {
+.me, .project_list {
     margin-top: 100px;
     text-align: center;
     margin-bottom: 100px;
 }
-
 table {
     border-collapse: collapse;
     border-spacing: 0;
@@ -124,8 +131,8 @@ table {
 
 
 .projects a {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    font-size: 14px;
+    font-weight: 150;
     color: white;
     text-decoration: none;
 }
