@@ -57,7 +57,10 @@ a {
 }
 
 ol, ul {
-    list-style: none;
+    list-style-type: circle;
+    align-content: center;
+    color: white;
+    
 }
 
 blockquote, q {
