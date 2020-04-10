@@ -53,6 +53,7 @@ a {
     font-weight: 150;
     color: white;
     text-decoration: none;
+    display: block;
 }
 
 ol, ul {
