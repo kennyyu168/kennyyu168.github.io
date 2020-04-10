@@ -9,7 +9,7 @@ body, html {
     line-height: 1;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    background-color: slategrey;
+    background-color: #202c30;
     padding: 0;
 }
 
@@ -67,14 +67,50 @@ q:before, q:after {
     
 }
 
-.description p {
+.description h1 {
     margin-top: 0;
     padding-top: 100px;
-    padding-bottom: 100px; 
+    padding-bottom: 50px; 
     font-size: 36px;
     font-weight: 200;
     color: white;
     text-shadow: 2px 2px 4px #000000;
+}
+
+.description p {
+    margin-top: 0;
+    padding-top: 50px;
+    padding-bottom: 100px; 
+    font-size: 24px;
+    font-weight: 200;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.description img {
+    width: 200px;
+    float: inherit;
+    border-radius: 50%;
+}
+
+.me {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.me h1 {
+    font-size: 25px;
+    font-weight: 350;
+    color: white;
+}
+
+.me p {
+    margin-top: 0;
+    padding-top: 5px; 
+    font-size: 14px;
+    font-weight: 150;
+    color: white;
 }
 
 table {
@@ -84,7 +120,6 @@ table {
 
 .projects {
     color: white;
-    text-shadow: 2px 2px 4px #000000;
 }
 
 .projects h2 {
@@ -127,7 +162,4 @@ table {
     padding: 2px 16px;
 }
 
-#aboutmepic {
-    width: 50%
-    float: left;
-}
+
